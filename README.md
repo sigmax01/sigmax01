@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wexu0327
+- 👋 Hi, I’m @sigmax01
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning at usyd
 - 📫 How to reach me ricol.xwz@hotmail.com
